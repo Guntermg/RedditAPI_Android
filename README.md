@@ -4,8 +4,3 @@
  O aplicativo foi desenvolvido como desafio de estágio para a Uppersoft.
 
 ---------------------------------------------------------------------------------------------------------------------
-
-### Screenshots
-
-![image info](./Screenshots/frontPage.PNG)
-![image info](./Screenshots/postListPage.PNG)
